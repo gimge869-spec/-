@@ -1,0 +1,6 @@
+{
+  "name": "생일선물 추천 및 기념일 캘린더",
+  "description": "포근하고 상세한 필터링 조건을 바탕으로 맞춤형 생일 선물을 추천하고, 친구들의 기념일을 캘린더에 연동해 D-Day 계산 및 알림을 받는 폭닥폭닥한 감성의 생일 앱",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
